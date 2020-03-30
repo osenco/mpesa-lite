@@ -279,15 +279,15 @@ $mpesa = new MpesaC2B(
     array(
         'env'              => 'live',
         'type'             => 4,
-        'shortcode'        => '842678',
-        'headoffice'       => '842678',
-        'key' => 'Wkyn4q0SAAppxiCjKAT1wlLGLgNdpZA9',
-        'secret' => 't8ciQqBYNAg0qdQl',
-        'passkey' => '496989a59f25d59f2161090b9aab3e69f1a35ad7ee170e3ff94a276fc40ed611',
-        'validation_url'   => 'https://pay.buupass.com/validate?mode=c2b',
-        'confirmation_url' => 'https://pay.buupass.com/confirm?mode=c2b',
-        'callback_url'     => 'https://pay.buupass.com/confirm',
-        'timeout_url'      => 'https://pay.buupass.com/validate?mode=c2b',
+        'shortcode'        => '',
+        'headoffice'       => '',
+        'key' => '',
+        'secret' => '',
+        'passkey' => '',
+        'validation_url'   => '',
+        'confirmation_url' => '',
+        'callback_url'     => '',
+        'timeout_url'      => '',
     )
 );
 
